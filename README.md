@@ -1,7 +1,7 @@
 ## 🔊 Harsh Vasita's promotional website for the Bluetooth Speaker.
 SMALL is a Bluetooth speaker promotional website.SMALL is a promotional website for Bluetooth speakers.
 
-![Alt text](images/Brand.jpg)
+![Alt text](images/Small.png)
 
 Welcome to the SMALL Bluetooth Speaker Promotional Website — a product showcase website created for the Final Integrated Project.
 
